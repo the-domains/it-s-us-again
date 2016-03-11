@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[It's Us Again]]></title>
+        <description><![CDATA[It's Us Again]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 06:57:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Well so you see everything is clear to me now.  The only thing true in life is taxes and death. Well there might be a couple more bumps in the road. Somewhere before taxes, and for sure before death. </p>]]></description>
+            <link>undefinedfda5e9cc-b08d-4906-a651-677d9d521736/index.html</link>
+            <guid isPermaLink="false">fda5e9cc-b08d-4906-a651-677d9d521736</guid>
+            <pubDate>Fri, 11 Mar 2016 06:57:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
